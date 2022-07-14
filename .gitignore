@@ -1,2 +1,27 @@
 00.test
 
+# dependencies
+01.basics-tutorial/node_modules
+01.basics-tutorial/.pnp
+02.advanced-tutorial/node_modules
+02.advanced-tutorial/.pnp
+.pnp.js
+
+# testing
+01.basics-tutorial/coverage
+02.advanced-tutorial/coverage
+
+# production
+01.basics-tutorial/build
+02.advanced-tutorial/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
