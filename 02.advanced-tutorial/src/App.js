@@ -1,5 +1,5 @@
 import React from 'react';
-import Setup from './tutorial/01-useState/5-useState-counter';
+import Setup from './tutorial/03-conditional-rendering/3-show-hide';
 
 function App() {
   return (
